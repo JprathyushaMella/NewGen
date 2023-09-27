@@ -1,0 +1,181 @@
+{
+  "Header": {
+    "title": "One Stop Solution for all your Industrial Needs",
+    "paragraph": "we are here for every material that is involved in getting a finished product in any Industry Sector"
+  },
+  "About": {
+    "paragraph": "When supply chain management is effective, it can lower a company's overall costs and boost its profitability. If one link breaks, it can affect the rest of the chain and can be costly. We are here to make your supply chain effective and efficient. we use Flexibility model to get products into the market quickly by taking advantage of the prevailing trend. ",
+    "Why": [
+      "Increased Velocity",
+      "Continuous Improvement",
+      "Flexible Model",
+      "Highly Collaborative"
+    ],
+    "Why2": [
+      
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "LDPE Covers",
+      "largeImage": "img/portfolio/ldpe.jpg",
+      "smallImage": "img/portfolio/ldpe.jpg"
+    },
+    {
+      "title": "Stretch Films",
+      "largeImage": "img/portfolio/stretch.jpg",
+      "smallImage": "img/portfolio/stretch.jpg"
+    },
+    {
+      "title": "Power Tools",
+      "largeImage": "img/portfolio/power.jpg",
+      "smallImage": "img/portfolio/power.jpg"
+    },
+    {
+      "title": "Fastners",
+      "largeImage": "img/portfolio/fastners1.jpg",
+      "smallImage": "img/portfolio/fastners1.jpg"
+    },
+    {
+      "title": "Stretch Films",
+      "largeImage": "img/portfolio/stretch1.jpg",
+      "smallImage": "img/portfolio/stretch1.jpg"
+    },
+    {
+      "title": "Bubble sheets",
+      "largeImage": "img/portfolio/bubble.jpg",
+      "smallImage": "img/portfolio/bubble.jpg"
+    },
+    {
+      "title": "PU Foam",
+      "largeImage": "img/portfolio/foam.jpg",
+      "smallImage": "img/portfolio/foam.jpg"
+    },
+    {
+      "title": "Power Tools",
+      "largeImage": "img/portfolio/power1.jpeg",
+      "smallImage": "img/portfolio/power1.jpeg"
+    },
+    {
+      "title": "Fastners",
+      "largeImage": "img/portfolio/fastners.jpg",
+      "smallImage": "img/portfolio/fastners.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-screwdriver-wrench",
+      "name": "Fasteners",
+      "text": "Fasteners are used to create non-permanent joints that can be removed or dismantled without damaging the joining components."
+    },
+    {
+      "icon": "fa fa-toolbox",
+      "name": "Power Tools",
+      "text": "Power-driven hand tools make work quicker and require less physical effort from the user and are used in industry, in construction, for housework."
+    },
+    {
+      "icon": "fa fa-boxes-packing",
+      "name": "LDPE Covers",
+      "text": "This water resistance LDPE covers can be used for any type of packaging and dispencing to protect from liquid contamination "
+    },
+    {
+      "icon": "fa fa-box-open",
+      "name": "Bubble Sheets",
+      "text": "The sheets offer cushioning and scratch protection far superior to packing paper and are used to protect items during shipping and storage."
+    },
+    {
+      "icon": "fa fa-tape",
+      "name": "Stretch Film",
+      "text": "used to hold other objects together on a pallet and protect objects during transport and storage."
+    },
+    {
+      "icon": "fa fa-rectangle-list",
+      "name": "PU Foam",
+      "text": "used as cushioning for a variety of consumer and commercial products, including bedding, furniture, automotive interiors, carpet underlay and packaging."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "1/117, Duddebanda Branch Post Office, Duddebanda, Sri Sathyasai, Andhra Pradesh, 515164",
+    "phone": "+91 8660567523",
+    "email": "sales@newgenindustry.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-business-time",
+      "title": "Reliability",
+      "text": "With reliable delivery, assembly lines can not lie dormant which can result in effective use of time and man power."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lower Cost",
+      "text": "With a cost-efficient supply chain, manufacturers can reduce overhead and direct sales costs at the same time and boost overall profitability"
+    },
+    {
+      "icon": "fa fa-plane",
+      "title": "OutSourcing",
+      "text": "we have access to capabilities and technologies that could not be readily developed or cost-effectively acquired"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Customer Service",
+      "text": "We provide support to our customers before and after materials are bought until end product is ready."
+    }
+  ]
+}
